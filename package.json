@@ -1,0 +1,12 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "author": "Fatpandac",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "license": "MIT"
+}
